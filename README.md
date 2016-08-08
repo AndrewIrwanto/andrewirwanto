@@ -1,2 +1,3 @@
 # andrewirwanto
-my online resume
+
+a [Sails](http://sailsjs.org) application
