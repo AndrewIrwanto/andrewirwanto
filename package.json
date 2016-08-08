@@ -2,7 +2,7 @@
   "name": "andrewirwanto",
   "private": true,
   "version": "0.0.0",
-  "description": "a Sails application",
+  "description": "my online resume",
   "keywords": [],
   "dependencies": {
     "ejs": "2.3.4",
@@ -33,5 +33,8 @@
     "url": "git://github.com/andrewwleeee/andrewirwanto.git"
   },
   "author": "andrewwleeee",
-  "license": ""
+  "license": "",
+  "engines": {
+    "node":"4.4.7"
+  }
 }
